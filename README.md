@@ -85,7 +85,7 @@ python scripts/evaluate.py results/runs/schrodinger/baseline
 
 ## Reports and code
 
-- [Project report](reports/en/CEE292_Report_EN.pdf)
+- [Project report](reports/CEE292_Report.pdf)
 - `src/pinn_main/`: networks, PDE residuals, IRK relations, losses, and optimization.
 - `configs/`: baseline, smoke, and precision configurations.
 - `tests/`: residual, derivative, optimizer, and sampling checks.

@@ -2,7 +2,7 @@ CEE 292 Scientific Machine Learning -- Shang Gao
 
 Three-page report, including figures and references.
 Source: main.tex
-PDF: CEE292_Report_EN.pdf
+PDF: CEE292_Report.pdf
 
 Compile with XeLaTeX twice, or run: tectonic main.tex
 
