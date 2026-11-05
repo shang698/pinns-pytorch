@@ -1,0 +1,25 @@
+{
+  "relative_l2_complex": 0.001433045626257509,
+  "relative_l2_amplitude": 0.0010054623086437505,
+  "relative_l2_real": 0.0012916707858967968,
+  "relative_l2_imaginary": 0.0016389797316704881,
+  "relative_l2_complex_after_initial_time": 0.001434157544946399,
+  "rmse": 0.0012816967542029127,
+  "max_absolute_error": 0.005766985997904121,
+  "status": "completed",
+  "model": "schrodinger",
+  "protocol": "main_nls_official_settings_pytorch",
+  "optimizer": {
+    "success": true,
+    "status": 0,
+    "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+    "nit_this_run": 8126,
+    "nfev_this_run": 8667
+  },
+  "training_seconds": 16181.41890225897,
+  "training_seconds_total": 16181.41890225897,
+  "phase": "lbfgs",
+  "adam_steps_completed": 50000,
+  "lbfgs_iterations_completed": 8126,
+  "lbfgs_function_evaluations": 8667
+}

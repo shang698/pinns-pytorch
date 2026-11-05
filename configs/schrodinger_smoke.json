@@ -1,0 +1,20 @@
+{
+  "extends": "schrodinger_paper.json",
+  "protocol": "schrodinger_smoke",
+  "dtype": "float64",
+  "layers": [
+    2,
+    16,
+    16,
+    2
+  ],
+  "n_initial": 20,
+  "adam_steps": 20,
+  "lbfgs_maxiter": 20,
+  "lbfgs_maxfun": 40,
+  "log_every": 5,
+  "checkpoint_every": 10,
+  "chunk_size": 64,
+  "n_boundary": 12,
+  "n_residual": 128
+}

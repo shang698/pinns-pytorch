@@ -1,0 +1,21 @@
+{
+  "seed": 1234,
+  "dtype": "float32",
+  "threads": 2,
+  "learning_rate": 0.001,
+  "chunk_size": 2048,
+  "loss_weights": {
+    "data": 1.0,
+    "boundary": 1.0,
+    "boundary_derivative": 1.0,
+    "physics": 1.0
+  },
+  "lbfgs_maxiter": 50000,
+  "lbfgs_maxfun": 50000,
+  "lbfgs_history": 50,
+  "lbfgs_maxls": 50,
+  "lbfgs_ftol": 2.220446049250313e-16,
+  "lbfgs_gtol": 1e-05,
+  "log_every": 100,
+  "checkpoint_every": 500
+}

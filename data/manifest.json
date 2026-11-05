@@ -1,0 +1,57 @@
+{
+  "repository": "https://github.com/maziarraissi/PINNs",
+  "commit": "932f50a2d8ef4e80d1456bbae6887a73ff5166ef",
+  "retrieved_date": "2026-10-23",
+  "purpose": "Main-text continuous-time Schrodinger and discrete-time Allen-Cahn forward examples",
+  "files": [
+    {
+      "path": "third_party/raissi/main/continuous_time_inference (Schrodinger)/Schrodinger.py",
+      "upstream_path": "main/continuous_time_inference (Schrodinger)/Schrodinger.py",
+      "url": "https://raw.githubusercontent.com/maziarraissi/PINNs/932f50a2d8ef4e80d1456bbae6887a73ff5166ef/main/continuous_time_inference%20%28Schrodinger%29/Schrodinger.py",
+      "sha256": "3bd187b927f39ee822f8fd823b2e192f052304524ef7baa0bd5c5bbf35a0793c",
+      "bytes": 13025
+    },
+    {
+      "path": "third_party/raissi/main/discrete_time_inference (AC)/AC.py",
+      "upstream_path": "main/discrete_time_inference (AC)/AC.py",
+      "url": "https://raw.githubusercontent.com/maziarraissi/PINNs/932f50a2d8ef4e80d1456bbae6887a73ff5166ef/main/discrete_time_inference%20%28AC%29/AC.py",
+      "sha256": "9891e5ced84f91a912b5d805ac9678ef7dd4f7e098bc8225b4b5deb9765be1cf",
+      "bytes": 9362
+    },
+    {
+      "path": "third_party/raissi/main/Data/NLS.mat",
+      "upstream_path": "main/Data/NLS.mat",
+      "url": "https://raw.githubusercontent.com/maziarraissi/PINNs/932f50a2d8ef4e80d1456bbae6887a73ff5166ef/main/Data/NLS.mat",
+      "sha256": "1558a845646b84747a961a467b3ee10aa4ff3812c8b23c425b85c75ed1127c81",
+      "bytes": 559592
+    },
+    {
+      "path": "third_party/raissi/main/Data/AC.mat",
+      "upstream_path": "main/Data/AC.mat",
+      "url": "https://raw.githubusercontent.com/maziarraissi/PINNs/932f50a2d8ef4e80d1456bbae6887a73ff5166ef/main/Data/AC.mat",
+      "sha256": "266e97eedd9ef543d7f6d370fa5f06388761aa7da2b97e476562dcf1d644a175",
+      "bytes": 559196
+    },
+    {
+      "path": "third_party/raissi/Utilities/IRK_weights/Butcher_IRK100.txt",
+      "upstream_path": "Utilities/IRK_weights/Butcher_IRK100.txt",
+      "url": "https://raw.githubusercontent.com/maziarraissi/PINNs/932f50a2d8ef4e80d1456bbae6887a73ff5166ef/Utilities/IRK_weights/Butcher_IRK100.txt",
+      "sha256": "5e46a1eda1ef5011c19b387cab4fd50a0ebb1fefd4c26abf02e518136e10b928",
+      "bytes": 259955
+    },
+    {
+      "path": "third_party/raissi/Utilities/plotting.py",
+      "upstream_path": "Utilities/plotting.py",
+      "url": "https://raw.githubusercontent.com/maziarraissi/PINNs/932f50a2d8ef4e80d1456bbae6887a73ff5166ef/Utilities/plotting.py",
+      "sha256": "232faa7f0e67bee65589849f0b93027592135e4e52c534c8fbc5a168dc405b40",
+      "bytes": 2669
+    },
+    {
+      "path": "third_party/raissi/LICENSE",
+      "upstream_path": "LICENSE",
+      "url": "https://raw.githubusercontent.com/maziarraissi/PINNs/932f50a2d8ef4e80d1456bbae6887a73ff5166ef/LICENSE",
+      "sha256": "d47ab7033e2e1034d0134527b80cef37cb45efa224725ec223f7934dcc0718f9",
+      "bytes": 1069
+    }
+  ]
+}

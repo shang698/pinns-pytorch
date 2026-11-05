@@ -1,0 +1,23 @@
+{
+  "extends": "base.json",
+  "model": "allen_cahn",
+  "protocol": "allen_cahn_baseline",
+  "layers": [
+    1,
+    200,
+    200,
+    200,
+    200,
+    101
+  ],
+  "n_initial": 200,
+  "irk_stages": 100,
+  "initial_time_index": 20,
+  "target_time_index": 180,
+  "adam_steps": 10000,
+  "loss_weights": {
+    "irk": 1.0,
+    "boundary": 1.0,
+    "boundary_derivative": 1.0
+  }
+}

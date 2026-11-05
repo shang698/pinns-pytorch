@@ -1,0 +1,10 @@
+{
+  "extends": "schrodinger_paper.json",
+  "protocol": "schrodinger_precision",
+  "adam_steps": 0,
+  "lbfgs_maxiter": 5000,
+  "lbfgs_maxfun": 7500,
+  "lbfgs_gtol": 1e-08,
+  "log_every": 100,
+  "checkpoint_every": 500
+}

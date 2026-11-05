@@ -1,0 +1,6 @@
+third_party/** -text
+*.pt -text
+*.npz -text
+*.mat -text
+*.pdf -text
+*.png -text

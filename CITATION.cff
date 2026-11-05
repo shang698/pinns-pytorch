@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "Please cite the original paper when using these examples."
+type: software
+title: "Continuous- and Discrete-Time PINNs in PyTorch"
+authors:
+  - family-names: Gao
+    given-names: Shang
+version: 0.1.0
+repository-code: "https://github.com/shang698/pinns-pytorch"
+license: MIT
+references:
+  - type: article
+    title: "Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations"
+    authors:
+      - family-names: Raissi
+        given-names: Maziar
+      - family-names: Perdikaris
+        given-names: Paris
+      - family-names: Karniadakis
+        given-names: George Em
+    journal: Journal of Computational Physics
+    volume: 378
+    start: 686
+    end: 707
+    year: 2019
+    doi: 10.1016/j.jcp.2018.10.045

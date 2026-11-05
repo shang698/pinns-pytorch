@@ -1,0 +1,18 @@
+{
+  "extends": "allen_cahn_paper.json",
+  "protocol": "allen_cahn_smoke",
+  "dtype": "float64",
+  "layers": [
+    1,
+    16,
+    16,
+    101
+  ],
+  "n_initial": 20,
+  "adam_steps": 20,
+  "lbfgs_maxiter": 20,
+  "lbfgs_maxfun": 40,
+  "log_every": 5,
+  "checkpoint_every": 10,
+  "chunk_size": 64
+}

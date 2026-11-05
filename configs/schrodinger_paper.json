@@ -1,0 +1,17 @@
+{
+  "extends": "base.json",
+  "model": "schrodinger",
+  "protocol": "schrodinger_baseline",
+  "layers": [
+    2,
+    100,
+    100,
+    100,
+    100,
+    2
+  ],
+  "n_initial": 50,
+  "n_boundary": 50,
+  "n_residual": 20000,
+  "adam_steps": 50000
+}

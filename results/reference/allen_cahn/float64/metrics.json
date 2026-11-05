@@ -1,0 +1,23 @@
+{
+  "relative_l2_target_snapshot": 0.003165018706597927,
+  "initial_time": 0.1,
+  "target_time": 0.9,
+  "rmse": 0.002881950697327389,
+  "max_absolute_error": 0.03313658123991277,
+  "status": "completed",
+  "model": "allen_cahn",
+  "protocol": "main_allen_cahn_precision_restart_controlled_float64",
+  "optimizer": {
+    "success": false,
+    "status": 1,
+    "message": "STOP: TOTAL NO. OF ITERATIONS REACHED LIMIT",
+    "nit_this_run": 5000,
+    "nfev_this_run": 5456
+  },
+  "training_seconds": 355.4092997480184,
+  "training_seconds_total": 355.4092997480184,
+  "phase": "lbfgs",
+  "adam_steps_completed": 0,
+  "lbfgs_iterations_completed": 5000,
+  "lbfgs_function_evaluations": 5456
+}

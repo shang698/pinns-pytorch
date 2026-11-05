@@ -1,0 +1,26 @@
+{
+  "python": "3.12.1",
+  "torch": "2.6.0+cu118",
+  "numpy": "1.26.4",
+  "scipy": "1.16.2",
+  "device": "cuda",
+  "cuda_build": "11.8",
+  "gpu": "NVIDIA GeForce RTX 3090",
+  "parameter_count": 141301,
+  "source_sha256": {
+    "src/pinn_burgers/__init__.py": "f2744a2d2b69b4790adafc4b7877550ba4a7f382100c6146fb11083cfaa322b3",
+    "src/pinn_burgers/data.py": "c78781a4c3f7ccdef3c34fffb8233351e2573e779aefece3c9f87f78e1d36934",
+    "src/pinn_burgers/model.py": "fe7d84389cf76131044f1dc89fb49197e968a59725619190f6c58d6e01ad31ea",
+    "src/pinn_burgers/plots.py": "9d966015c881afc3ade40d6b07324330d3a2c6e4282e24235edfaf340fd96a65",
+    "src/pinn_burgers/train.py": "176f735e82e6e4eeca7fd53e654b08018d328eddf4c670f0ba65ab8269648f7c",
+    "src/pinn_main/__init__.py": "30ad0f2fdfb717ae5f70c2dfbcdc83be99546e77b627586b8fb0809e8844e036",
+    "src/pinn_main/data.py": "57f2ac2d87b896d605ec230cffd336736920e41ffc3da00474384c446767eaaf",
+    "src/pinn_main/optim.py": "42d6955489f9c2f778fdaabc2c6765ef6f18303a9dd0dca79beac05df42685fe",
+    "src/pinn_main/physics.py": "d6c2c46c016c29ca16f18de0b0096e133779063247c2c9ff06b54f903fa1819b",
+    "src/pinn_main/plots.py": "0175b67f54392745ae78addafd6e20ae56b9dee7400ae3778a483062b847746b",
+    "src/pinn_main/problems.py": "11b371ca17e81abb64f0a56a891fc57ab71b15c5b2876d420b81719ddd12a536",
+    "src/pinn_main/train.py": "7df71ecbfc23e014963826681a38d89b809fc3ba7a48c458d3042ff4f40968b3"
+  },
+  "platform": "Linux-3.10.0-1160.156.1.el7.tuxcare.els1.x86_64-x86_64-with-glibc2.17",
+  "official_assets_manifest_sha256": "56025bcb1c7c3fb8fce24fde66184caf0d6b569936fd5c2c0fb81f1fe7426fa3"
+}

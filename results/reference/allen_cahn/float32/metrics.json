@@ -1,0 +1,23 @@
+{
+  "relative_l2_target_snapshot": 0.003909230681043085,
+  "initial_time": 0.1,
+  "target_time": 0.9,
+  "rmse": 0.003559603001321838,
+  "max_absolute_error": 0.03879390803414762,
+  "status": "completed",
+  "model": "allen_cahn",
+  "protocol": "main_allen_cahn_precision_restart_controlled",
+  "optimizer": {
+    "success": true,
+    "status": 0,
+    "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+    "nit_this_run": 4,
+    "nfev_this_run": 31
+  },
+  "training_seconds": 3.550407408969477,
+  "training_seconds_total": 3.550407408969477,
+  "phase": "lbfgs",
+  "adam_steps_completed": 0,
+  "lbfgs_iterations_completed": 4,
+  "lbfgs_function_evaluations": 31
+}

@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.cache/
+.DS_Store
+results/runs/
+data/validation.json
+*.aux
+*.log
+*.out
+*.synctex.gz
